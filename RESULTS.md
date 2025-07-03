@@ -29,3 +29,13 @@ Tested Results:
 - multiply(0, 100) → 0
 - multiply(-2, -8) → 16
 - multiply(1.5, 2) → 3.0
+
+
+## isOdd(n)
+
+Tested Results:
+- isOdd(3) → true
+- isOdd(6) → false
+- isOdd(0) → false
+- isOdd(-5) → true
+- isOdd(-2) → false
