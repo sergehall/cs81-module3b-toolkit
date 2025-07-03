@@ -21,3 +21,14 @@ Examples:
 - isEven(0) → true
 - isEven(-6) → true
 - isEven(-3) → false
+
+## multiply(a, b)
+
+I expect this function to return the product of two numbers `a` and `b`.
+
+Examples:
+- multiply(2, 3) → 6
+- multiply(5, -4) → -20
+- multiply(0, 100) → 0
+- multiply(-2, -8) → 16
+- multiply(1.5, 2) → 3.0
