@@ -97,3 +97,4 @@ frontend/.secrets
 # Ignore local workflow overrides
 .github/workflows/*.local.yml
 
+/.idea/
