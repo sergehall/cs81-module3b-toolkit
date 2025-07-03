@@ -6,7 +6,7 @@ I started with a simple function, `double(n)`, which was straightforward but set
 
 The function `isEven(n)` was a good example of clean, readable logic, but it also made me think about edge cases like negative numbers or zero. Similarly, `isOdd(n)` required careful comparison logic, and I was reminded how a small change in a condition (`!==` vs `===`) can completely flip the outcome.
 
-The most interesting shift for me happened when I implemented `multiply(a, b)`. Unlike the earlier functions with one parameter, this one introduced multiple inputs and reinforced the importance of clear naming and parameter handling. It also got me thinking about how these functions could be chained together or used in combination in more advanced applications.
+The most interesting shift for me happened when I implemented `multiply(a, b)`. Unlike the earlier functions with one parameter, this one introduced multiple inputs and reinforced the importance of clear naming and parameter handling. It also got me thinking about how these functions could  be chained together or used in combination in more advanced applications.
 
 One of the biggest takeaways was how essential testing is. I wrote out predictions before testing each function, which helped me clarify what I expected. Sometimes the results matched exactly, and other times I found small errors like a missing `return`, which silently broke functionality. This experience taught me to test early and test often.
 
