@@ -66,11 +66,11 @@ Each function is:
 
 ## What This Assignment Covers
 
-✅ JavaScript function creation  
-✅ Testing and debugging logic  
-✅ Clean, reusable coding practices  
-✅ Git & GitHub version tracking  
-✅ Writing predictions, results, and reflection  
+- JavaScript function creation  
+- Testing and debugging logic  
+- Clean, reusable coding practices  
+- Git & GitHub version tracking  
+- Writing predictions, results, and reflection  
 
 ---
 
