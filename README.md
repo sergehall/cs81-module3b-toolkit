@@ -81,3 +81,7 @@ Each function is:
 - [x] `RESULTS.md` — tested results
 - [x] `REFLECTION.md` — thoughts and patterns
 - [x] At least **5 separate commits**
+
+## License
+
+This project is for educational purposes only as part of Santa Monica College's CS81 coursework.
